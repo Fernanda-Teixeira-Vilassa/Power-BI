@@ -1,2 +1,2 @@
 # Power-BI
-Curso de Poer BI (dashboard)
+Curso de Power BI (dashboard)
